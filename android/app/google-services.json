@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1008852469293",
+    "firebase_url": "https://sozilla-b982b.firebaseio.com",
+    "project_id": "sozilla-b982b",
+    "storage_bucket": "sozilla-b982b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008852469293:android:09d1aa1211039a99",
+        "android_client_info": {
+          "package_name": "com.example.developerdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008852469293-lnm1qfr23r4ccih6qniaf6o84an8p3m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH53sOy57Z8y5q6TlRL2fpXhczOfFPPQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
